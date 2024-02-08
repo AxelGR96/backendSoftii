@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES2018",
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "outDir": "./dist",
+      "rootDir": "./src",  // Ajusta la ruta según tu estructura de carpetas
+      "strict": true
+    }
+  }
+  
